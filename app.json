@@ -1,0 +1,9 @@
+   
+{
+  "name": "gitea",
+  "description": "Run gitea on Heroku.",
+  "keywords": ["gitea"],
+  "website": "https://github.com/spotiyu/gitea-heroku",
+  "repository": "https://github.com/spotiyu/gitea-heroku",
+  "stack": "container"
+}
