@@ -3,12 +3,6 @@
   "name": "gitea",
   "description": "Run gitea on Heroku.",
   "keywords": ["gitea"],
-  "env": {
-        "PORT": {
-            "description": "PORT",
-            "value": "3000"
-        }
-   },
   "website": "https://github.com/spotiyu/gitea-heroku",
   "repository": "https://github.com/spotiyu/gitea-heroku",
   "stack": "container"
